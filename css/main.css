@@ -1,0 +1,31 @@
+body {
+	text-align:center;
+	background-image: url("../img/cool.jpg");
+}
+
+.header {
+	font-family:verdana;
+	color:green;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+.input{
+	width:80%;
+	height:60px;
+	border-radius:;
+	border:1px solid red;
+}
+
+.btn {
+	margin-top:30px;
+}
+
+#call{
+	color:white;
+}
+
+#name {
+	color :blue;
+	text-align:center;
+}
