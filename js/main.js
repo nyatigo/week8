@@ -61,7 +61,6 @@ for(var i = 0; i < signs.length; i++ ){
 
   else{
     console.log("error");
-    document.write("only signs required");
 
     return;
   }
